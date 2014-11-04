@@ -14,8 +14,8 @@ byly poblíz hlavní ulice vybudovány správní budovy a později sem přesídl
 Většina obyvatel těžila ze zemědělské produkce úrodných břehů Vardaru, 
 která byla vyvážena prostřednictvím přístavu v [Soluni][6]. 
 
-[1]: http//cs.wikipedia.org/wiki/Makedonština
-[2]: http//cs.wikipedia.org/wiki/Srbština
+[1]: http://cs.wikipedia.org/wiki/Makedonština
+[2]: http://cs.wikipedia.org/wiki/Srbština
 [3]: http//cs.wikipedia.org/wiki/Řečtina
 [4]: http//cs.wikipedia.org/wiki/Republika_Makedonie
 [5]: http//cs.wikipedia.org/wiki/Řecko
