@@ -13,7 +13,7 @@
 > Ne není, v rámci vlastního forku se dají zakládat branche, neboli subforky.
 
 5. Jak se na projektu pracuje?
-> Ve formátu Markdown se píší soubory. Formát je podobný jako MW, akorát má jiné formátování.
+> Ve formátu Markdown se píší soubory. Formát je podobný jako MW, akorát má jiné formátování. Soubory mají příponu .md jinak je to v loji.
 
 6. Je to jako ve wiki, nebo něco jiného?
 > Řada věcí je jako ve wiki, Základní formátování ano. Existují i revize, kterým se říká commits.
@@ -23,3 +23,4 @@
 
 8. A repozitáře?
 > Vzniknou snadno, Github lze ovládat jak konzolově z vlastního počítače, nbo existuje serverový klikací na portálu github.com. 
+
