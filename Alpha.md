@@ -1,0 +1,3 @@
+alpha text
+
+#HAS1
